@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 🖥️🧠 Perfectioning my C and C++ mastery<br><br>👾Looking to collaborate on LLM apps development<br><br>📲🤳🏻Looking for help with building business apps using flutter<br><br>📈👨🏽‍💻Ask me about Business & Tech related topics<br><br>👀 I know the same amount of spoken languages than coding languages (5)
 
